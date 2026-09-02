@@ -1,16 +1,15 @@
-## Hi there 👋
+## About me
 
-<!--
-**77damian/77damian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Applied Computer Science student at AGH University of Science and Technology (5th semester).
 
-Here are some ideas to get you started:
+## Personal Projects
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **FaceAttendance** | Student face recognition and attendance tracking system using a camera. | https://github.com/77damian/FaceAttendance |
+| **SimpleGravitySimulator** | 2D physics simulator of gravitational attraction between objects. | https://github.com/77damian/SimpleGravitySimulator |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contributions & Collaborative Projects
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **NeuroDots** | An artificial life simulation where neural network-driven dots evolve through a genetic algorithm to survive. | https://github.com/quiz11/NeuroDots |
+
