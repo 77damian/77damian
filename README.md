@@ -7,7 +7,7 @@
 | :--- | :--- | :--- |
 | **FaceAttendance** | Student face recognition and attendance tracking system using a camera. | https://github.com/77damian/FaceAttendance |
 | **CrytoAlert** | An automated cryptocurrency tracking system that monitors market changes and triggers personalized email alerts when when prices reach a set target. | https://github.com/77damian/CryptoAlert |
-| **GravitySimulator** | Simple 2D physics simulator of gravitational attraction between objects. | https://github.com/77damian/SimpleGravitySimulator |
+| **GravitySimulator** | Simple 2D physics simulator of gravitational attraction between objects. | https://github.com/77damian/GravitySimulator |
 
 ## Contributions & Collaborative Projects
 | Project | Description | Links |
